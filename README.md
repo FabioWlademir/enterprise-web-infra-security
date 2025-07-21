@@ -60,10 +60,11 @@ wp config set DISALLOW_FILE_EDIT true
 ---
 
 ### 📌 **Featured Resources**
-F2 Suporte Blog - Technical guides & case studies https://f2suporte.blogspot.com/
+[F2 Suporte Blog - Technical guides & case studies](https://f2suporte.blogspot.com/)
 
-MyBB Hardening Checklist https://checklists/mybb-hardening.md
+[MyBB Hardening Checklist](https://checklists/mybb-hardening.md)
 
-Email Server Configuration https://configs/zimbra-postfix-setup.md
+[Email Server Configuration](https://configs/zimbra-postfix-setup.md)
 
-### 🔗 **Full Project Details**: LinkedIn Portfolio https://www.linkedin.com/in/fabiowlademir/details/projects/
+### 🔗 **Full Project Details**: 
+[LinkedIn Portfolio](https://www.linkedin.com/in/fabiowlademir/details/projects/)
